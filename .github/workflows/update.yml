@@ -31,4 +31,4 @@ jobs:
           git add -A
           git status
           git commit -m "[ci] $UPDATED"
-          git push -q "https://$GH_TOKEN@github.com/mauforonda/covid19-municipios-mirror.git" master
+          git push -q "https://$GH_TOKEN@github.com/mauforonda/casos-covid-19-acumulado-por-municipios.git" master
